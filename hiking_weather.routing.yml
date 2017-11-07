@@ -1,0 +1,8 @@
+hiking_weather.content:
+  path: '/hikingweather'
+  defaults:
+    _controller: '\Drupal\hiking_weather\Controller\HikingWeatherController::content'
+    _title: 'Hiking Weather'
+
+  requirements:
+    _permission: 'access content'

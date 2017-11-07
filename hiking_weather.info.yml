@@ -1,0 +1,12 @@
+name: Hiking Weather
+description: Shows the current weather on the hiking trail
+package: Custom
+
+type: module
+core: 8.x
+
+dependencies:
+
+test_dependencies:
+
+configure: hiking_weather.settings

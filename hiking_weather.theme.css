@@ -1,0 +1,20 @@
+/**
+ * FILE:   hiking_weather.theme.css
+ * GOAL:   To support Awesome Hiking by defining hiking specific styles
+ * AUTHOR: Bradley Roberts
+ * EMAIL:  Bradley@Roberts.net
+ * DATE:   09/01/2017
+ */
+
+
+
+.hiking {
+    font-weight: bold;
+}
+
+.hiking_forecast {
+    background-color: #cdd9fe;
+    float: left;
+    padding-right: 5px;
+    margin-right: 10px;
+}

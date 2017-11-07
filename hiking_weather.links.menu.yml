@@ -1,0 +1,6 @@
+hiking_weather.admin:
+  title: 'Hiking Weather Module Settings'
+  description: 'Settings for the Hiking Weather Module'
+  parent: system.admin_config_development
+  route_name: hiking_weather.content
+  weight: 100

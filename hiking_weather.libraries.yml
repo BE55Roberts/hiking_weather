@@ -1,0 +1,5 @@
+hiking-weather:
+  version: 1.x
+  css:
+    theme:
+      hiking_weather.theme.css: {}
